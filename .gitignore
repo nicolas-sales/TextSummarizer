@@ -1,2 +1,6 @@
 venv/
 artifacts/
+logs/
+research/pegasus-samsum-model/
+research/pegasus-samsum-tokenizer/
+research/pegasus-samsum/
